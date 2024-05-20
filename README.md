@@ -64,7 +64,7 @@ Waste-Management uses sensors and custom datasets to develop models for predicti
 
 11. **Frequently Asked Questions (FAQs WasteBot)**
     - **Model:** NLP with SVM
-    - **Dataset:** [Custom dataset with over 1000 Q&A on waste management.](https://github.com/JainSneha6/Waste-Management/blob/main/backend/Dataset/WasteBot.csv)
+    - **Dataset:** [Custom dataset with over 700 Q&A on waste management.](https://github.com/JainSneha6/Waste-Management/blob/main/backend/Dataset/WasteBot.csv)
     - **Functionality:** Answers questions based on waste management.
 
 ## Project Structure
