@@ -1,4 +1,4 @@
-# WasteManagementAI
+# Waste-Management
 
 Welcome to Waste-Management! This project leverages machine learning, deep learning and artificial inteligence models to address various aspects of waste management, including waste prediction, classification, disposal techniques and addresses various FAQs.
 
