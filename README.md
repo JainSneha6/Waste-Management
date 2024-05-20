@@ -110,7 +110,7 @@ To get started with Waste-Management, follow these steps:
 
 6. **Run the frontend server (runs on port 3000 by default)**:
    ```bash
-   npm start
+   npm run dev
 
 7. **Open your web browser and navigate to `http://localhost:3000`**:
 
