@@ -10,12 +10,12 @@ Waste-Management uses sensors and custom datasets to develop models for predicti
 
 1. **Leak Status Prediction**
    - **Model:** Random Forest
-   - **Dataset:** Custom dataset using MQ-2, MQ-135, and MQ-7 gas sensors.
+   - **Dataset:** [Custom dataset using MQ-2, MQ-135, and MQ-7 gas sensors.](https://github.com/JainSneha6/Waste-Management/blob/main/backend/Dataset/leak_anomaly.csv)
    - **Functionality:** Predicts gas leaks if gas value is above 60.
 
 2. **High Temperature Alert Prediction**
    - **Model:** Random Forest
-   - **Dataset:** Custom dataset using DHT11 sensor.
+   - **Dataset:** [Custom dataset using DHT11 sensor.](https://github.com/JainSneha6/Waste-Management/blob/main/backend/Dataset/temp_anomaly.csv)
    - **Functionality:** Predicts high temperature if the temperature is above 50°C.
 
 3. **Waste Type Classification Based on Weight and Volume**
