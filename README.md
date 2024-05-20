@@ -1,10 +1,11 @@
 # Waste-Management
 
-Welcome to Waste-Management! This project leverages machine learning, deep learning and artificial inteligence models to address various aspects of waste management, including waste prediction, classification, disposal techniques and addresses various FAQs.
+Welcome to Waste-Management! This project leverages machine learning, deep learning, artificial inteligence models and blockchain to address various aspects of waste management, including waste prediction, classification, disposal techniques, addresses various FAQs and promoting transparency in waste collection and motivating societies to reduce carbon footprints.
 
 ## About the Project
 
 Waste-Management uses sensors and custom datasets to develop models for predicting and classifying different types of waste, managing waste disposal techniques, and integrating voice control features. The backend is written in Flask, and the frontend is created using Next.js.
+It also uses solidity to write smart contracts.
 
 ## Preview of the Website
 ![WhatsApp Image 2024-05-20 at 8 11 39 PM](https://github.com/JainSneha6/Waste-Management/assets/126079866/51c45fd8-1ab2-46e6-a8b8-8a656212c35e)
@@ -66,6 +67,16 @@ Waste-Management uses sensors and custom datasets to develop models for predicti
     - **Model:** NLP with SVM
     - **Dataset:** [Custom dataset with over 700 Q&A on waste management.](https://github.com/JainSneha6/Waste-Management/blob/main/backend/Dataset/WasteBot.csv)
     - **Functionality:** Answers questions based on waste management.
+
+## Smart Contracts 
+
+1. **Supply Chain**
+    
+     ![SupplyChain](https://github.com/JainSneha6/Waste-Management/assets/126079866/d895e6d2-ca81-495a-afc4-d5315530dea8)
+
+2. **Carbon Footprints**
+
+    ![WhatsApp Image 2024-05-16 at 11 00 56 PM](https://github.com/JainSneha6/Waste-Management/assets/126079866/3771005e-66a1-4776-ae5f-3528a04a8ce6)
 
 ## Project Structure
 
