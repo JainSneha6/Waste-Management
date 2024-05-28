@@ -101,7 +101,7 @@ export default function ImageUpload() {
 
   return (
     <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', minHeight: '100vh' }}>
-      <div style={{ maxWidth: '400px', padding: '30px', backgroundColor: '#f0f0f0', borderRadius: '8px', boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)', fontFamily: 'Arial, sans-serif', textAlign: 'center' }}>
+      <div style={{ maxWidth: '400px', padding: '30px', background: 'linear-gradient(135deg, #a8e6cf 0%, #dcedc1 100%)', borderRadius: '8px', boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)', fontFamily: 'Arial, sans-serif', textAlign: 'center' }}>
         <h1 style={{ fontSize: '24px', marginBottom: '30px', color: '#022019' }}>Bag Classification using Images</h1>
         {imageUrl && <img src={imageUrl} alt="Selected" style={{ maxWidth: '100%', marginBottom: '20px' }} />}
         <button

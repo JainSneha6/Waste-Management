@@ -60,13 +60,13 @@ export default function LeakPage() {
       justifyContent: 'center',
       alignItems: 'center',
       minHeight: '100vh',
+      fontFamily: 'Arial, sans-serif',
     }}>
       <div style={{ 
         maxWidth: '400px', 
         padding: '30px', 
-        backgroundColor: '#f0f0f0', 
+        background: 'linear-gradient(135deg, #a8e6cf 0%, #dcedc1 100%)',
         borderRadius: '8px', 
-        boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)',
         fontFamily: 'Arial, sans-serif',
         textAlign: 'center' 
       }}>
@@ -88,7 +88,7 @@ export default function LeakPage() {
         >
           {voiceActive ? 'Stop Voice Control' : 'Start Voice Control'}
         </button>
-        <h1 style={{ fontSize: '24px', marginBottom: '30px', color: '#022019' }}>Leak Status Prediction</h1>
+        <h1 style={{ fontSize: '24px', marginBottom: '30px', color: '#022019' }}>Gas Leak Status Prediction</h1>
         <form onSubmit={handleSubmit}>
           <label style={{ fontSize: '18px', marginBottom: '20px', display: 'block' }}>
             Sensor Reading:

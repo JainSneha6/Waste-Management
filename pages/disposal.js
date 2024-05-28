@@ -64,7 +64,7 @@ export default function DisposalPage() {
       <div style={{ 
         maxWidth: '400px', 
         padding: '30px', 
-        backgroundColor: '#f0f0f0', 
+        background: 'linear-gradient(135deg, #a8e6cf 0%, #dcedc1 100%)',
         borderRadius: '8px', 
         boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)',
         fontFamily: 'Arial, sans-serif',

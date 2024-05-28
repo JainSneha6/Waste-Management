@@ -1,5 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import styles from '../styles/Home.module.css';
+import {BiBot, BiCalendar, BiMicrophone, BiMicrophoneOff, BiRecycle, BiTrash, BiTrashAlt} from 'react-icons/bi';
+import {FaCubes, FaFire, FaTemperatureHigh} from 'react-icons/fa'
+import { FiTrash } from 'react-icons/fi';
+import { GiNuclearWaste } from 'react-icons/gi';
+import { LiaShoppingBagSolid } from 'react-icons/lia';
+import { IoMdTrash } from 'react-icons/io';
 
 const Home = () => {
   const [transcript, setTranscript] = useState('');
@@ -114,10 +120,10 @@ const Home = () => {
         <img src="https://i.pinimg.com/736x/45/2d/bf/452dbf1287d230fb37666a1e0510e161.jpg" alt="Waste Management" className={styles.image} />
         <button
           style={{ 
-            width: '300px', 
+            width: '45px', 
             padding: '14px', 
             fontSize: '18px', 
-            marginLeft:'350px',
+            marginLeft:'470px',
             backgroundColor: isListening ? '#dc3545' : '#36b02f', 
             color: 'black', 
             border: 'none', 
@@ -129,86 +135,100 @@ const Home = () => {
           }}
           onClick={toggleVoiceControl}
         >
-          {isListening ? 'Stop Voice Control' : 'Start Voice Control'}
+          {isListening && 
+          <><BiMicrophone style={{marginRight:'10px'}}/></>}
+          {!isListening && <><BiMicrophoneOff style={{marginRight:'10px'}}/></>}
         </button>
       </div>
       <div className={styles.buttonContainer}>
         <a
-          id="leak-button"
-          href="/leak"
-          className={styles.button}
-        >
-          Leak Status Prediction
-        </a>
+  id="leak-button"
+  href="/leak"
+  className={styles.button}
+>
+  <span>Leak Status Prediction</span>
+  <FaFire className={styles.icon} />
+</a>
         <a
           id="disposal-button"
           href="/disposal"
           className={styles.button}
         >
-          Disposal Method Prediction
+          <span>Disposal Method Prediction</span>
+          <BiTrash className={styles.icon} />
         </a>
         <a
           id="material-button"
           href="/material"
           className={styles.button}
         >
-          Material Type Prediction
+          <span>Material Type Prediction</span>
+          <FaCubes className={styles.icon}/>
         </a>
         <a
           id="waste-type-button"
           href="/wastetype"
           className={styles.button}
         >
-          Waste Quality Prediction
+          <span>Waste Quality Prediction</span>
+          <BiTrashAlt className={styles.icon}/>
         </a>
         <a
           id="waste-generation-button"
           href="/wastegeneration"
           className={styles.button}
         >
-          Waste Generation Prediction
+          <span>Waste Generation Prediction</span>
+          <BiCalendar className={styles.icon}/>
         </a>
         <a
           id="overflow-button"
           href="/overflow"
           className={styles.button}
         >
-          Overflow Status Prediction
+          <span>Overflow Status Prediction</span>
+          <IoMdTrash className={styles.icon}/>
         </a>
         <a
           id="temperature-button"
           href="/temperature"
           className={styles.button}
         >
-          High Temperature Alert Prediction
+          <span>High Temperature Alert Prediction</span>
+          <FaTemperatureHigh className={styles.icon}/>
         </a>
         <a
           id="recycle-button"
           href="/recycle"
           className={styles.button}
         >
-          Recyclable and Non-Recyclable Prediction
+          <span>Recyclable and Non-Recyclable Prediction</span>
+          <BiRecycle className={styles.icon}/>
         </a>
         <a
           id="type-of-waste-button"
           href="/typeofwaste"
           className={styles.button}
         >
-          Type of Waste Prediction
+          <span>Type of Waste Prediction</span>
+          <GiNuclearWaste className={styles.icon}/>
         </a>
         <a
           id="bags-button"
           href="/bags"
           className={styles.button}
         >
-          Type of Bags Prediction
+          <span>Type of Bags Prediction</span>
+          <LiaShoppingBagSolid className={styles.icon}/>
+
         </a>
         <a
           id="chatbot-button"
           href="/chatbot"
           className={styles.button}
         >
-          WasteBot
+          <span>WasteBot</span>
+          <BiBot className={styles.icon}/>
         </a>
       </div>
     </div>
