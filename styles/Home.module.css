@@ -1,0 +1,94 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 94vh;
+  padding: 20px;
+}
+
+.typewriterContainer {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.heading {
+  padding-left: 50px;
+  font-size: 4.2rem;
+  color: white;
+  font-weight: bold;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 0.15em solid white;
+  animation: typing 3.5s steps(40, end), blink-caret 0.75s step-end infinite;
+}
+
+.image {
+  padding-left: 340px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  max-width: 100%;
+  width: 320px;
+  height: auto;
+  border-radius: 6px;
+}
+
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent; }
+  50% { border-color: white; }
+}
+
+.buttonContainer {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.button {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start; 
+  width: 300px;
+  padding: 14px;
+  font-size: 18px;
+  background-color: #27b72c;
+  color: black;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  text-decoration: none;
+  overflow: hidden;
+  transition: background-color 0.3s;
+  margin-bottom: 10px;
+}
+
+.button span {
+  flex: 1; 
+}
+
+.icon {
+  left: 10px; 
+  transition: left 5s ease, color 5s ease; 
+  z-index: 1; 
+}
+
+.button:hover span{
+  display:none;
+}
+
+.button:hover .icon {
+  left: calc(100% - 180px); 
+  font-size: 24px;
+  flex: 0 0 auto;
+  margin: auto;
+}
