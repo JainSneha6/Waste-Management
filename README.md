@@ -28,8 +28,8 @@ Waste-Management uses sensors and custom datasets to develop models for predicti
 ## Preview of the Website
 
 <div style="text-align: center;">
-  <img src="https://github.com/JainSneha6/Waste-Management/assets/126079866/51c45fd8-1ab2-46e6-a8b8-8a656212c35e" width="300">
-  <img src="https://github.com/JainSneha6/Waste-Management/assets/126079866/09a45886-6ebd-4ad9-9074-fe8fa775824c" width="300">
+  <img src="https://github.com/JainSneha6/Waste-Management/assets/126079866/51c45fd8-1ab2-46e6-a8b8-8a656212c35e" width="500">
+  <img src="https://github.com/JainSneha6/Waste-Management/assets/126079866/09a45886-6ebd-4ad9-9074-fe8fa775824c" width="500">
 </div>
 
 ## Features
