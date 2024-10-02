@@ -143,6 +143,50 @@ It also uses solidity to write smart contracts.
 
 
 
+## Circuit Diagram of Hardware
+
+![image](https://github.com/user-attachments/assets/a364f4f6-e639-4980-b3f8-8f06f045fc60)
+
+## Hardware Part of Project
+
+![image](https://github.com/user-attachments/assets/95c74469-ae71-493c-a3b9-fe2ec6717e91)
+
+## Predicted Classes on Test Images of type of bags
+
+![image](https://github.com/user-attachments/assets/838eed83-c21e-42d7-8e92-a815c1a57869)
+
+
+## Graph of testing and validation on Garbage bags
+
+![image](https://github.com/user-attachments/assets/38fdc390-ca7f-4cd8-99bd-e1246482443c)
+
+
+## ROC and Precision-Recall Curve for Garbage Bag
+
+![image](https://github.com/user-attachments/assets/a85c53e4-0a98-422b-bac4-d655df011b38)
+![image](https://github.com/user-attachments/assets/a2550ccc-8770-4798-a638-e6702d5edb05)
+
+
+
+## Predicted Classes on Test Images on recyclable and non-recyclable waste
+
+![image](https://github.com/user-attachments/assets/022e06f9-edf0-4d30-be08-a84fa2225b3b)
+
+## Predicted Classes on Test Images of type of waste
+
+![image](https://github.com/user-attachments/assets/f44b52a5-4fb1-4055-83fa-a5e66ff04ed0)
+
+
+## ROC and Precision-Recall Curve for Waste Types
+
+![image](https://github.com/user-attachments/assets/8ad7499c-a117-42a7-a1b1-0cceec310201)
+![image](https://github.com/user-attachments/assets/122ac710-e589-4ac5-8bcc-129c0d68db22)
+
+## Graph of testing and validation on Waste types
+
+![image](https://github.com/user-attachments/assets/5a4563e7-1f25-4fe1-a793-f7f280b6e7ba)
+
+
 
 
 ## Project Structure
