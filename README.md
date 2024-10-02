@@ -87,6 +87,11 @@ It also uses solidity to write smart contracts.
 
     ![WhatsApp Image 2024-05-16 at 11 00 56 PM](https://github.com/JainSneha6/Waste-Management/assets/126079866/3771005e-66a1-4776-ae5f-3528a04a8ce6)
 
+## Overview of CNN Based Models
+
+![CNN drawio 1](https://github.com/user-attachments/assets/a7d5f33c-a385-4ede-a666-24bd19bb25cc)
+
+
 ## Project Structure
 
 - 📁 `backend/`
