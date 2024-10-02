@@ -14,6 +14,7 @@ Welcome to Waste-Management! This project leverages machine learning, deep learn
 | [Overview of ML Models](#overview-of-ml-models-for-waste-management-classification-and-prediction) | Machine learning models for waste classification and prediction |
 | [Circuit Diagram](#circuit-diagram-of-hardware) | Circuit Diagram of our Hardware  |
 | [Hardware Assembly](#hardware-part-of-project) | Actual Hardware Assembly of the Project |
+| [Classification Models](#predictions-and-testing-of-classification-models) | Predictions and Testing of Classification Models |
 | [Project Structure](#project-structure) | Folder and file structure of the project                       |
 | [Getting Started](#getting-started)    | Steps to clone and run the project on your local machine       |
 | [Demo Video](#demo-video)              | Video demonstration of the project                             |
