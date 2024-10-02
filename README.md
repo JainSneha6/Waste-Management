@@ -11,6 +11,15 @@ It also uses solidity to write smart contracts.
 ![WhatsApp Image 2024-05-20 at 8 11 39 PM](https://github.com/JainSneha6/Waste-Management/assets/126079866/51c45fd8-1ab2-46e6-a8b8-8a656212c35e)
 ![WhatsApp Image 2024-05-20 at 8 16 50 PM](https://github.com/JainSneha6/Waste-Management/assets/126079866/09a45886-6ebd-4ad9-9074-fe8fa775824c)
 
+
+
+
+
+
+
+
+
+
 ## Features
 
 1. **Leak Status Prediction**
@@ -124,6 +133,11 @@ To get started with Waste-Management, follow these steps:
    npm run dev
 
 7. **Open your web browser and navigate to `http://localhost:3000`**:
+
+## Demo Video
+
+
+https://github.com/user-attachments/assets/ce03e94e-3264-4479-8d41-f0bd5c8164f0
 
 ## Contributing
 
