@@ -176,7 +176,7 @@ Waste-Management uses sensors and custom datasets to develop models for predicti
    
    
   
-   <img src="https://github.com/user-attachments/assets/f44b52a5-4fb1-4055-83fa-a5e66ff04ed0" width="400">
+   
   
    <img src="https://github.com/user-attachments/assets/5a4563e7-1f25-4fe1-a793-f7f280b6e7ba" width="400">
 
@@ -184,6 +184,7 @@ Waste-Management uses sensors and custom datasets to develop models for predicti
    <img src="https://github.com/user-attachments/assets/a85c53e4-0a98-422b-bac4-d655df011b38" width="200">
     <img src="https://github.com/user-attachments/assets/8ad7499c-a117-42a7-a1b1-0cceec310201" width="200">
    <img src="https://github.com/user-attachments/assets/122ac710-e589-4ac5-8bcc-129c0d68db22" width="200">
+   <img src="https://github.com/user-attachments/assets/f44b52a5-4fb1-4055-83fa-a5e66ff04ed0" width="400">
 </div>
 
 
