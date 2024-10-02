@@ -94,6 +94,25 @@ It also uses solidity to write smart contracts.
     - **Dataset:** [Custom dataset with over 700 Q&A on waste management.](https://github.com/JainSneha6/Waste-Management/blob/main/backend/Dataset/WasteBot.csv)
     - **Functionality:** Answers questions based on waste management.
 
+## Data Collection From Sensors
+
+![WhatsApp Image 2024-05-24 at 14 48 27_e1f36751](https://github.com/user-attachments/assets/e78bcdfb-09a4-4d4e-820f-c16e5cadcf61)
+![WhatsApp Image 2024-05-24 at 14 50 17_22cb880c](https://github.com/user-attachments/assets/31ff06e1-2eda-4b52-b902-425219e37b76)
+![WhatsApp Image 2024-05-24 at 14 51 13_8e1a8718](https://github.com/user-attachments/assets/059997a8-9a44-41d8-9a42-9705e202ab1a)
+![WhatsApp Image 2024-05-24 at 15 02 53_74eb6392](https://github.com/user-attachments/assets/5165c463-c864-490d-8fe9-0970fae5602c)
+![WhatsApp Image 2024-05-24 at 15 06 04_73f0a9b8](https://github.com/user-attachments/assets/be984295-ce51-40a8-8675-e494df91a451)
+![WhatsApp Image 2024-05-24 at 15 06 44_9599d97a](https://github.com/user-attachments/assets/a9360f44-be12-4727-a5f7-c090efc7ef4e)
+![WhatsApp Image 2024-05-24 at 15 07 27_d4b51eb6](https://github.com/user-attachments/assets/14e6ecdc-6512-4e07-8e88-e27c9144c690)
+![WhatsApp Image 2024-05-24 at 15 09 43_8307b8fc](https://github.com/user-attachments/assets/23769614-4e62-465a-970f-8c65ff5e6ee4)
+
+
+
+
+
+
+
+
+
 ## Smart Contracts 
 
    ![smartcontracts drawio 1](https://github.com/user-attachments/assets/64fa6f96-ff3a-4e95-a461-d6338784da0c)
