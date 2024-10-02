@@ -108,17 +108,15 @@ Waste-Management uses sensors and custom datasets to develop models for predicti
   <img src="https://github.com/user-attachments/assets/64fa6f96-ff3a-4e95-a461-d6338784da0c" width="500">
 </div>
 
-1. **Supply Chain**
+
     
 <div style="text-align: center;">
-  <img src="https://github.com/JainSneha6/Waste-Management/assets/126079866/d895e6d2-ca81-495a-afc4-d5315530dea8" width="500">
+  <img src="https://github.com/JainSneha6/Waste-Management/assets/126079866/d895e6d2-ca81-495a-afc4-d5315530dea8" width="400">
+  <img src="https://github.com/JainSneha6/Waste-Management/assets/126079866/3771005e-66a1-4776-ae5f-3528a04a8ce6" width="400">
 </div>
 
-2. **Carbon Footprints**
 
-<div style="text-align: center;">
-  <img src="https://github.com/JainSneha6/Waste-Management/assets/126079866/3771005e-66a1-4776-ae5f-3528a04a8ce6" width="500">
-</div>
+
 
 ## Overview of CNN Based Models For Waste & Bags Classification
 
@@ -175,13 +173,17 @@ Waste-Management uses sensors and custom datasets to develop models for predicti
   <img src="https://github.com/user-attachments/assets/838eed83-c21e-42d7-8e92-a815c1a57869" width="400">
    <img src="https://github.com/user-attachments/assets/022e06f9-edf0-4d30-be08-a84fa2225b3b" width="400">
    <img src="https://github.com/user-attachments/assets/38fdc390-ca7f-4cd8-99bd-e1246482443c" width="400">
-   <img src="https://github.com/user-attachments/assets/a2550ccc-8770-4798-a638-e6702d5edb05" width="400">
-   <img src="https://github.com/user-attachments/assets/a85c53e4-0a98-422b-bac4-d655df011b38" width="400">
+   
+   
   
    <img src="https://github.com/user-attachments/assets/f44b52a5-4fb1-4055-83fa-a5e66ff04ed0" width="400">
-   <img src="https://github.com/user-attachments/assets/8ad7499c-a117-42a7-a1b1-0cceec310201" width="400">
-   <img src="https://github.com/user-attachments/assets/122ac710-e589-4ac5-8bcc-129c0d68db22" width="400">
+  
    <img src="https://github.com/user-attachments/assets/5a4563e7-1f25-4fe1-a793-f7f280b6e7ba" width="400">
+
+   <img src="https://github.com/user-attachments/assets/a2550ccc-8770-4798-a638-e6702d5edb05" width="200">
+   <img src="https://github.com/user-attachments/assets/a85c53e4-0a98-422b-bac4-d655df011b38" width="200">
+    <img src="https://github.com/user-attachments/assets/8ad7499c-a117-42a7-a1b1-0cceec310201" width="200">
+   <img src="https://github.com/user-attachments/assets/122ac710-e589-4ac5-8bcc-129c0d68db22" width="200">
 </div>
 
 
