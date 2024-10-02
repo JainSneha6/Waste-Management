@@ -2,6 +2,23 @@
 
 Welcome to Waste-Management! This project leverages machine learning, deep learning, artificial inteligence models and blockchain to address various aspects of waste management, including waste prediction, classification, disposal techniques, addresses various FAQs and promoting transparency in waste collection and motivating societies to reduce carbon footprints.
 
+| **Section**                            | **Description**                                               |
+|----------------------------------------|---------------------------------------------------------------|
+| [About the Project](#about-the-project) | Overview of the project's goals, technologies, and approach    |
+| [Preview of the Website](#preview-of-the-website) | Visual preview of the website interface                        |
+| [Features](#features)                  | Details of waste management features and prediction models     |
+| [Smart Contracts](#smart-contracts)    | Overview of smart contracts used for waste management and carbon footprint tracking |
+| [Overview of CNN Based Models](#overview-of-cnn-based-models-for-waste--bags-classification) | CNN models used for waste and bag classification               |
+| [Overview of NLP & SVC Models](#overview-of-nlp--svc-based-models) | NLP and SVC models used for FAQs on waste management           |
+| [Overview of Sensor Readings Models](#overview-of-sensor-readings-based-prediction-models) | Sensor-based models for predicting anomalies and waste status   |
+| [Overview of ML Models](#overview-of-ml-models-for-waste-management-classification-and-prediction) | Machine learning models for waste classification and prediction |
+| [Project Structure](#project-structure) | Folder and file structure of the project                       |
+| [Getting Started](#getting-started)    | Steps to clone and run the project on your local machine       |
+| [Demo Video](#demo-video)              | Video demonstration of the project                             |
+| [Contributing](#contributing)          | Guidelines for contributing to the project                     |
+| [Contact](#contact)                    | Contact information for project maintainers                    |
+
+
 ## About the Project
 
 Waste-Management uses sensors and custom datasets to develop models for predicting and classifying different types of waste, managing waste disposal techniques, and integrating voice control features. The backend is written in Flask, and the frontend is created using Next.js.
@@ -79,6 +96,9 @@ It also uses solidity to write smart contracts.
 
 ## Smart Contracts 
 
+![smartcontracts drawio 1](https://github.com/user-attachments/assets/64fa6f96-ff3a-4e95-a461-d6338784da0c)
+
+
 1. **Supply Chain**
     
      ![SupplyChain](https://github.com/JainSneha6/Waste-Management/assets/126079866/d895e6d2-ca81-495a-afc4-d5315530dea8)
@@ -87,9 +107,24 @@ It also uses solidity to write smart contracts.
 
     ![WhatsApp Image 2024-05-16 at 11 00 56 PM](https://github.com/JainSneha6/Waste-Management/assets/126079866/3771005e-66a1-4776-ae5f-3528a04a8ce6)
 
-## Overview of CNN Based Models
+## Overview of CNN Based Models For Waste & Bags Classification
 
 ![CNN drawio 1](https://github.com/user-attachments/assets/a7d5f33c-a385-4ede-a666-24bd19bb25cc)
+
+## Overview of NLP & SVC Based Models
+
+![NLP drawio 1](https://github.com/user-attachments/assets/2869503d-92ac-4fa1-b43e-42d29fcc6f90)
+
+## Overview of Sensor Readings Based Prediction Models
+
+![SensorModels 1](https://github.com/user-attachments/assets/25efc00c-dd0c-4ffb-be3d-a115aae271f7)
+
+## Overview of ML Models for Waste Management Classification and Prediction
+
+![Waste drawio 1](https://github.com/user-attachments/assets/a5857b1f-c092-49fa-a525-8458e6712a06)
+
+
+
 
 
 ## Project Structure
