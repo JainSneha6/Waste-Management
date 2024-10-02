@@ -92,14 +92,14 @@ Waste-Management uses sensors and custom datasets to develop models for predicti
 ## Data Collection From Sensors
 
 <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/e78bcdfb-09a4-4d4e-820f-c16e5cadcf61" width="500">
-  <img src="https://github.com/user-attachments/assets/31ff06e1-2eda-4b52-b902-425219e37b76" width="500">
-  <img src="https://github.com/user-attachments/assets/059997a8-9a44-41d8-9a42-9705e202ab1a" width="500">
-  <img src="https://github.com/user-attachments/assets/5165c463-c864-490d-8fe9-0970fae5602c" width="500">
-  <img src="https://github.com/user-attachments/assets/be984295-ce51-40a8-8675-e494df91a451" width="500">
-  <img src="https://github.com/user-attachments/assets/a9360f44-be12-4727-a5f7-c090efc7ef4e" width="500">
-  <img src="https://github.com/user-attachments/assets/14e6ecdc-6512-4e07-8e88-e27c9144c690" width="500">
-  <img src="https://github.com/user-attachments/assets/23769614-4e62-465a-970f-8c65ff5e6ee4" width="500">
+  <img src="https://github.com/user-attachments/assets/e78bcdfb-09a4-4d4e-820f-c16e5cadcf61" width="400">
+  <img src="https://github.com/user-attachments/assets/31ff06e1-2eda-4b52-b902-425219e37b76" width="400">
+  <img src="https://github.com/user-attachments/assets/059997a8-9a44-41d8-9a42-9705e202ab1a" width="400">
+  <img src="https://github.com/user-attachments/assets/5165c463-c864-490d-8fe9-0970fae5602c" width="400">
+  <img src="https://github.com/user-attachments/assets/be984295-ce51-40a8-8675-e494df91a451" width="400">
+  <img src="https://github.com/user-attachments/assets/a9360f44-be12-4727-a5f7-c090efc7ef4e" width="400">
+  <img src="https://github.com/user-attachments/assets/14e6ecdc-6512-4e07-8e88-e27c9144c690" width="400">
+  <img src="https://github.com/user-attachments/assets/23769614-4e62-465a-970f-8c65ff5e6ee4" width="400">
 </div>
 
 ## Smart Contracts 
