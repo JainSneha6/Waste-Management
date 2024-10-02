@@ -96,7 +96,7 @@ It also uses solidity to write smart contracts.
 
 ## Smart Contracts 
 
-![smartcontracts drawio 1](https://github.com/user-attachments/assets/64fa6f96-ff3a-4e95-a461-d6338784da0c)
+   ![smartcontracts drawio 1](https://github.com/user-attachments/assets/64fa6f96-ff3a-4e95-a461-d6338784da0c)
 
 
 1. **Supply Chain**
@@ -109,19 +109,18 @@ It also uses solidity to write smart contracts.
 
 ## Overview of CNN Based Models For Waste & Bags Classification
 
-![CNN drawio 1](https://github.com/user-attachments/assets/a7d5f33c-a385-4ede-a666-24bd19bb25cc)
+   ![CNN drawio 1](https://github.com/user-attachments/assets/a7d5f33c-a385-4ede-a666-24bd19bb25cc)
 
 ## Overview of NLP & SVC Based Models
 
-![NLP drawio 1](https://github.com/user-attachments/assets/2869503d-92ac-4fa1-b43e-42d29fcc6f90)
+   ![NLP drawio 1](https://github.com/user-attachments/assets/2869503d-92ac-4fa1-b43e-42d29fcc6f90)
 
 ## Overview of Sensor Readings Based Prediction Models
-
-![SensorModels 1](https://github.com/user-attachments/assets/25efc00c-dd0c-4ffb-be3d-a115aae271f7)
+   ![SensorModels 1](https://github.com/user-attachments/assets/25efc00c-dd0c-4ffb-be3d-a115aae271f7)
 
 ## Overview of ML Models for Waste Management Classification and Prediction
 
-![Waste drawio 1](https://github.com/user-attachments/assets/a5857b1f-c092-49fa-a525-8458e6712a06)
+   ![Waste drawio 1](https://github.com/user-attachments/assets/a5857b1f-c092-49fa-a525-8458e6712a06)
 
 
 
